@@ -16,7 +16,8 @@ function App() {
             <Profile/>
             <LogoutButton/>
             </>
-        ) : (<LoginButton/>)        
+        ) : (<LoginButton/>)     
+           
       }
       </header>
     </div>
